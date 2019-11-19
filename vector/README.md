@@ -143,25 +143,26 @@ void _Arry(vector<vector<int>>&arry,int line,int column)
 }
 
 ```
+
 ---
 
 部分图示如下：
 
-### - 向量本身
+### 向量本身
 
-![vector][vector-1]
+![vector](./vector-1.png)
 
-### - 添加向量
+### 添加向量
 
-![vector][vector-2]
+![vector](./vector-2.png)
 
-### - 删除向量
+### 删除向量
 
-![vector][vector-3]
+![vector](./vector-3.png)
 
-### - 添加同一类型的多个向量
+### 添加同一类型的多个向量
 
-![vector][vector-4]
+![vector](./vector-4.png)
 
 
 ---
@@ -173,11 +174,4 @@ void _Arry(vector<vector<int>>&arry,int line,int column)
 </div>
 
 
-[vector-1]:
-
-[vector-2]:
-
-[vector-3]:
-
-[vector-4]:
 
