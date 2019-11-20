@@ -68,6 +68,7 @@ sting 类存储再头文件``#include<string>``里面，并且属于std命名空
 ---
 
 参考文档:《C++STL基础及应用》
+
 参考网站:[--------->网站<---------](https://www.cnblogs.com/xFreedom/archive/2011/05/16/2048037.html)
 
 
