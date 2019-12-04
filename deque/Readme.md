@@ -187,5 +187,8 @@ inline void QueueOfMy<T>::display()
 	cout << endl;
 }
 
-
 ```
+
+---
+
+借鉴《C++STL基础及应用（第二版）》
